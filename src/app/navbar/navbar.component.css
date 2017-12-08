@@ -1,0 +1,61 @@
+.right {
+    float: right;
+}
+
+ul {
+    list-style: none;
+    float: right;
+}
+
+.nav-item {
+    float: right;
+}
+
+.container-fluid {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row;
+    padding: 0;
+}
+
+.left-col {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+.right-col {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+.time {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    height: 100%;
+    font-size: 25px;
+}
+
+.orange {
+    color: #f13b00;
+}
+
+.blue {
+    color: #003443;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    height: 100%;
+}
+
+img {
+    padding-left: 50px;
+}

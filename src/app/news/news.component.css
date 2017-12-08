@@ -1,0 +1,33 @@
+.news {
+    background: white;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+h5 {
+    color: #F13B00;
+    padding-right: 25px;
+    text-align: justify;
+
+}
+
+.description {
+    padding: 0 25px;
+    text-align: justify;
+}
+
+.flexrow {
+    flex: 0.98;
+}
+
+img {
+    height: 100%;
+}
+
+.vcenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0;
+}

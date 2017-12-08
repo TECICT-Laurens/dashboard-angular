@@ -1,0 +1,9 @@
+{
+ "/2.5/": {
+"target": "http://api.openweathermap.org/data/",
+"pathRewrite": {
+  "^/2.5/": ""
+},
+"secure": false
+}
+}
